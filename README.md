@@ -1,0 +1,2 @@
+# ConnpassForSwiftUI
+Webサイト「Connpass」のiOSモバイルアプリです
